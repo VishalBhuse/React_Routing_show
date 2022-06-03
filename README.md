@@ -1,4 +1,4 @@
-## sample image
+## Sample image
 ![image](https://user-images.githubusercontent.com/101569259/171916435-911cd6b9-b8a9-4b29-881a-430f1bebbdf0.png)
 
 # Getting Started with Create React App
